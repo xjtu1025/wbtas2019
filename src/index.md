@@ -1,6 +1,6 @@
-<Carousel :perPage="1" :loop="true" :autoplay="true" :autoplayTimeout="3000">
-  <Slide v-for="img in imgs" :key="img"><img :src="img"/></Slide>
-</Carousel>
+<ClientOnly>
+  <ImgSlide/>
+</ClientOnly>
 
 # Workshop Track - Call for Papers
 
@@ -35,24 +35,3 @@ Please send your workshop proposal via EasyChair https://easychair.org/conferenc
 - Proposal submission deadline: September 30, 2018 October 9, 2018 AoE
 - Notifications: October 9, 2018 October 15, 2018
 
-<script>
-import { Carousel, Slide } from 'vue-carousel'
-
-export default {
-  components: {
-    Carousel,
-    Slide
-  },
-  
-  data () {
-    return {
-      swiperOption: {},
-      imgs: [
-        'https://saner2019.github.io/img_system/ZJU-overview-words-white.jpeg',
-        'https://saner2019.github.io/img_system/002-wods.jpeg',
-        'https://saner2019.github.io/img_system/003-words.jpg',
-      ]
-    }
-  },
-}
-</script>
