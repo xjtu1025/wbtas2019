@@ -1,3 +1,7 @@
+<Carousel :perPage="1" :loop="true" :autoplay="true" :autoplayTimeout="3000">
+  <Slide v-for="img in imgs" :key="img"><img :src="img"/></Slide>
+</Carousel>
+
 # Workshop Track - Call for Papers
 
 We solicit proposals for workshops to be held in conjunction with the main SANER conference. Workshops should highlight topics of interest related to software analysis, evolution, and reengineering, and should provide concrete opportunities for researchers to exchange and debate scientific ideas at an early stage, before they are solid and mature enough for publication in conference or journal venues.
@@ -30,3 +34,25 @@ Please send your workshop proposal via EasyChair https://easychair.org/conferenc
 
 - Proposal submission deadline: September 30, 2018 October 9, 2018 AoE
 - Notifications: October 9, 2018 October 15, 2018
+
+<script>
+import { Carousel, Slide } from 'vue-carousel'
+
+export default {
+  components: {
+    Carousel,
+    Slide
+  },
+  
+  data () {
+    return {
+      swiperOption: {},
+      imgs: [
+        'https://saner2019.github.io/img_system/ZJU-overview-words-white.jpeg',
+        'https://saner2019.github.io/img_system/002-wods.jpeg',
+        'https://saner2019.github.io/img_system/003-words.jpg',
+      ]
+    }
+  },
+}
+</script>

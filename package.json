@@ -10,6 +10,7 @@
     "url": "git+https://github.com/wbtas/wbtas2019.git"
   },
   "dependencies": {
+    "vue-carousel": "^0.16.0-rc1",
     "vuepress": "^0.14.4"
   }
 }
