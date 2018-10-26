@@ -4,7 +4,11 @@ module.exports = {
   description: 'SANER 2019 - Hangzhou, China',
 
   head: [
-    ['meta', { keywords: 'saner 2019, saner2019, saner’19, zhejiang university, zju , hangzhou, china' }],
+    [
+      'meta', {
+        keywords: 'saner 2019, saner2019, saner’19, zhejiang university, zju , hangzhou, china'
+      },
+    ],
   ],
 
   themeConfig: {
