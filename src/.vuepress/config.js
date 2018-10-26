@@ -1,4 +1,6 @@
 module.exports = {
+  base: '/wbtas2019/',
+
   title: 'SANER 2019',
 
   description: 'SANER 2019 - Hangzhou, China',
