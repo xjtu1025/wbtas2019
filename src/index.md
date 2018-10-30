@@ -11,7 +11,7 @@ through a distributed cryptographic protocol. All nodes validate the information
 Nowadays more and more innovative applications are using blockchain to explore many new innovative digital financial
 applications and various decentralized applications that eliminate the need for 3rd party intermediaries, such as identity
 management, credit management, distrusted/public/shared ledger, crowd-funding, P2P insurance, smart contracts, supply
-chain management, online voting, medical records etc.  We aim to advance the state of the art in security of blockchain technology and analysis.
+chain management, online voting and medical records.  We aim to advance the state of the art in security of blockchain technology and analysis.
 
 The aim of this workshop is to bring together researchers and practitioners working in distributed systems, cryptography,
 and security, from academia and industry, who are interested in the technology and analysis of blockchains and
