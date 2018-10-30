@@ -1,14 +1,22 @@
 <ClientOnly>
   <ImgSlide/>
 </ClientOnly>
-# Workshop of Blockchain Technology and Analysis for Security
+
+
+# 1st International Workshop of Blockchain Technology and Analysis for Security
 ## Call for Papers
 
-We solicit proposals for workshops to be held in conjunction with the main SANER conference. Workshops should highlight topics of interest related to software analysis, evolution, and reengineering, and should provide concrete opportunities for researchers to exchange and debate scientific ideas at an early stage, before they are solid and mature enough for publication in conference or journal venues.
+A blockchain is a distributed ledger for recording transactions, maintained by many nodes without central authority
+through a distributed cryptographic protocol. All nodes validate the information to be appended to the blockchain, and a consensus protocol ensures that the nodes agree on a unique order in which entries are appended. This prominent feature of blockchain is well known after the success of its early digital cryptocurrency applications known as Bitcoin.
+Nowadays more and more innovative applications are using blockchain to explore many new innovative digital financial
+applications and various decentralized applications that eliminate the need for 3rd party intermediaries, such as identity
+management, credit management, distrusted/public/shared ledger, crowd-funding, P2P insurance, smart contracts, supply
+chain management, online voting, medical records etc.  We aim to advance the state of the art in security of blockchain technology and analysis.
 
-We encourage workshop organizers to include usual conference-like sessions like keynotes and paper presentations, but most importantly, activities that provide their participants with a true workshop experience, including (but not limited to) tool demo sessions, tutorials, panels, poster presentations, and discussion sessions.
+The aim of this workshop is to bring together researchers and practitioners working in distributed systems, cryptography,
+and security, from academia and industry, who are interested in the technology and analysis of blockchains and
+their protocols.
 
-Workshops can be organized as full-day or half-day events.
 
 
 ## Evaluation Criteria
@@ -17,21 +25,30 @@ Submissions will be evaluated by the track co-chairs. The evaluation will focus 
 
 
 ## Submission Instructions
-Workshop proposals should include the following information, with a maximum of two pages in IEEE proceedings format:
+Specific topics of interest include, but are not limited to:
+- The Bitcoin protocol and extensions (cryptography, scripting language etc.)
+- Applications using or built on top of Bitcoin
+- New applications of blockchain technology
+- Permissioned and permissionless blockchains
+- Cryptocurrency adoption and transition dynamics
+- Transaction graph analysis
+- Fraud detection and financial crime prevention
+- Economics and game theoretic analysis of cryptocurrency protocols
+- Regulation and law enforcement
+- Usability and user studies
+- Legal, ethical and societal aspects of (decentralized) virtual currencies
+- Case studies (e.g., of adoption, attacks, forks, scams,...)
 
-- Workshop title
-- Main contact for the workshop
-- Workshop organizers and contact information
-- Brief description of workshop topic and goals
-- Expected numbers of submissions and participants
-- Expected number of accepted papers
-- Draft workshop schedule including duration (full day or half day), together with the expected type/format of sessions
-- Paper selection criteria and mechanism (Important note: SANER 2019 follows a full double-blind review process, so workshop submissions should also be double-blind)
+All submissions must be in PDF format and conform, at time of submission, to the IEEE formatting guidelines.
+All submissions must not exceed 6 pages (including figures and appendices) plus up to 2 pages that contain ONLY references.
 
-Please send your workshop proposal via EasyChair https://easychair.org/conferences/?conf=saner2019
+Important note: submissions must be compliant with the double-blind policy. The research papers accepted at this workshop will not be published in this proceeding, but their revised, extended versions will be invited to be submitted for a special issue
+of the *IEEE Transaction on Reliability*.
+
+
 
 ## Important Dates
 
-- Proposal submission deadline: September 30, 2018 October 9, 2018 AoE
-- Notifications: October 9, 2018 October 15, 2018
+- Paper submission deadline: December 20, 2018 AOE
+- Notifications: January 31, 2018
 
