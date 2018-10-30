@@ -52,3 +52,8 @@ of the *IEEE Transaction on Reliability*.
 - Paper submission deadline: December 20, 2018 AOE
 - Notifications: January 31, 2018
 
+## Organizers
+- Ming Fan, Xi'an Jiaotong University
+- Zijiang Yang, Western Michigan University
+- Yan Cai, Chinese Academy of Sciences
+
