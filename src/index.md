@@ -2,7 +2,7 @@
   <ImgSlide/>
 </ClientOnly>
 # Workshop of Blockchain Technology and Analysis for Security
-# Call for Papers
+## Call for Papers
 
 We solicit proposals for workshops to be held in conjunction with the main SANER conference. Workshops should highlight topics of interest related to software analysis, evolution, and reengineering, and should provide concrete opportunities for researchers to exchange and debate scientific ideas at an early stage, before they are solid and mature enough for publication in conference or journal venues.
 
