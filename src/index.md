@@ -58,7 +58,7 @@ of the *IEEE Transaction on Reliability*.
 - Yan Cai, Chinese Academy of Sciences
 
 <style lang="stylus">
-.content
+.content:not(.custom)
   max-width 900px
   text-align justify
 </style>
