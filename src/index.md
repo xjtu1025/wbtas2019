@@ -26,7 +26,7 @@ Submissions will be evaluated by the track co-chairs. The evaluation will focus 
 
 ## Submission Instructions
 Specific topics of interest include, but are not limited to:
-- The Bitcoin protocol and extensions (cryptography, scripting language etc.)
+- The Bitcoin protocol and extensions (cryptography, scripting language, etc.)
 - Applications using or built on top of Bitcoin
 - New applications of blockchain technology
 - Permissioned and permissionless blockchains
