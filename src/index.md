@@ -56,3 +56,9 @@ of the *IEEE Transaction on Reliability*.
 - Ming Fan, Xi'an Jiaotong University
 - Zijiang Yang, Western Michigan University
 - Yan Cai, Chinese Academy of Sciences
+
+<style lang="stylus">
+.content
+  max-width 900px
+  text-align justify
+</style>
