@@ -53,7 +53,7 @@ of the *IEEE Transaction on Reliability*.
 - Notifications: January 11, 2019
 - Camera ready deadline: January 22, 2019
 - Workshop day: February 24, 2019
-
+- Submission page: https://easychair.org/conferences/?conf=saner2019
 
 ## Organizers
 - Ming Fan, Xi'an Jiaotong University
