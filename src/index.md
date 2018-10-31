@@ -48,9 +48,12 @@ of the *IEEE Transaction on Reliability*.
 
 
 ## Important Dates
+- Abstract submission deadline: December 14, 2018 AoE
+- Paper submission deadline: December 21, 2018 AoE
+- Notifications: January 11, 2019
+- Camera ready deadline: January 22, 2019
+- Workshop day: February 24, 2019
 
-- Paper submission deadline: December 20, 2018 AOE
-- Notifications: January 31, 2018
 
 ## Organizers
 - Ming Fan, Xi'an Jiaotong University
